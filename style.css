@@ -1,0 +1,63 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    box-sizing: border-box;
+    /* font-family: Helvetica ; */
+    font-family: 'Anton', sans-serif;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Turret Road', cursive;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: black;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+.imagem {
+    text-align: center;
+    box-shadow: 0.5rem 0.5rem 2rem #1d57ad3b;   
+}
+
+.segunda {
+    width: 50rem;
+}
+
+h1{
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+p{
+    text-align: justify;
+    margin: 2rem;
+    font-weight:lighter;
+    font-size: 17px;
+}
+
+
+img {
+
+    width: 100%;
+}
+
+iframe {
+    width: 555px;
+    height: 300px;
+    margin-left: 2rem;
+}
+
+iframe:hover{
+    box-shadow: 3px 3px 20px #1354ce8c;
+
+}
+
